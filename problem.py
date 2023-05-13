@@ -36,5 +36,6 @@ for c in digits:
                     print("m=", m)
                     print("n=", n)
                     print("-------------------------------")
+                    print("----------update-----------")
 
 
